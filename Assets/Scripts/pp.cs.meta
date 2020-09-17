@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: df61bfe12f2140049b78ce20965de18a
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - materialActivo: {fileID: 2100000, guid: 5476ae29e2e50194abce19e5cacce575, type: 2}
+  - materialInactivo: {instanceID: 0}
+  - mainCamera: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
