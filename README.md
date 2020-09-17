@@ -12,11 +12,8 @@ This VR Escape Room is designed to be used with the Google-CardBoard and was cre
 ## Gameplay Instructions
 
 - First Room Objective: Find the missing chess tile
-
-![](https://imgur.com/Rc57vcu.jpg)
-
 - If the object changes color you can select it by pressing the button and if you keep it pressed you can move it to another position.
--Object of the Main Room: Find four objects and place them on the bed
+- Object of the Main Room: Find four objects and place them on the bed
 
 
 
